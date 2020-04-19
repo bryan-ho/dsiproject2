@@ -7,10 +7,10 @@
 
 ## Contents:
 - [Technologies](#technologies)
-- [Description of Data](#datasummary)
-- [Key Findings](#keyfindings)
-- [Outside Research](#outsideresearch)
-- [Conclusions and Recommendations](#conclusion)
+- [Description of Data](#datasets)
+- [Key Findings](#key-findings)
+- [Outside Research](#outside-research)
+- [Conclusions and Recommendations](#conclusions-and-recommendations)
 ---
 
 ## Technologies
