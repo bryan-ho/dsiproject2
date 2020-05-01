@@ -201,6 +201,6 @@ For non-numerical data, the quality of these facilities such as garage and kitch
 
 The model that we have built returned a kaggle Root Mean Squared Error (RMSE) score of 27K - 29K
 
-![kaggle](../project_2/kaggle.jpg)
+![kaggle](../project_2/kaggle.JPG)
 
 Our model based on lasso regression seems to be performing decent on both our train and test data with RMSE of 21K and 27K respectively. Further evaluation could be performed on the training dataset which may increase the RMSE for train but decrease for test which could result in a model with less variance for the test data and any house data our model needs to predict the price for in the future.
